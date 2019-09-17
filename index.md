@@ -6,6 +6,16 @@ www.benfeitoria.com/vividoseinventados
 
 
 
+
+
+www.benfeitoria.com/vividoseinventados
+
+
+![](https://i.imgur.com/5ftTHA5.jpg)
+
+
+
+
 **Pequenos Contos vividos e inventados** integra algumas ideias e propostas que tem me transversado nestes últimos tempos.
 
 Produzir um livro de maneira livre e autônoma, independente do mercado editorial, tendo como objetivo manter uma ferramenta de pesquisa em rede, a qual venho me debruçando incansavelmente, em parceria com artistas e diversos colaboradores. 
@@ -22,14 +32,79 @@ Juntos, criamos para o público as recompensas expostas abaixo com o mesmo carin
 
 No mais, desejo já agradecer todos aqueles que apoiam e apoiaram este trabalho seja no envio de boas energias e palavras afetuosas como colaborando materialmente para a materialização dessa obra.
 
-**Rodrigo Verly**
-autor dos escritos
+### Rodrigo Verly
 
-https://www.poliphonia.com/cursos/web-design-e-desenvolvimento-com-wordpress/benfeitoria-logo-2/
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+
+
+
+#### Recompensas
+
+
+Incentivador
+
+R$ 10,00
+Você colabora com o projeto e recebe 
+um livro digital com carta personalizada de agradecimento.
+
+Apoiador
+
+R$ 30,00
+Você apoia o projeto e recebe 
+um livro físico com um afetuoso agradecimento pessoal escrito a mão. 
+
+Apoiadoraço
+
+R$ 45,00
+Você apoia o projeto e recebe um livro físico + 
+uma ecobag personalizada com a ilustração da capa.
+
+Apoiador parceria
+
+R$ 60,00
+Você apoia o projeto e recebe um livro físico + 
+uma camisa personalizada com a ilustração da capa.
+
+Apoiadoraço parceria
+
+R$70,00
+Você apoia o projeto e recebe um livro físico + uma ecobag e uma camisa com a ilustração da capa.
+
+Que tal um bolinho?
+
+R$ 130,00
+Além de receber tanto o livro físico e o digital nos encontraremos para uma tarde com poesia. 
+Que tal um chá da tarde com poesia? 
+Um café e um bolinho? 
+Nada melhor que um encontro, olho no olho, abraços e trocas de ideias.  Regado a poesia, então? 
+E um bolo de cenoura feitinho especialmente para nossa tarde?
+A ideia é permitir um encontro entre o autor e o apoiador, um bate papo com muita poesia e como presente para este apoio um bolo de cenoura feito com muita poesia especialmente para você!Duração: de 1h a 3h.P.s. Só consigo contemplar os apoiadores do Rio de Janeiro e São Paulo, capital. Mas se for de outro Estado ou município e quiser mandar a passagem, hospedagem tudo flui.
+
+Apoiador da Cocriação
+
+R$ 170,00
+Além do livro físico você ganha uma ilustração sob medida feita para você da artista **Rita Rocha**.
+Essa é das recompensas uma das mais legais. A artista e ilustradora Rita Rocha fará uma arte personalizada feita especialmente para nosso apoiador que será entregue já numa moldura. 
+Além do livro você levará uma obra de arte única e exclusiva.
+No Rio de Janeiro entregaremos em mãos já para outros Estados o frete fica a cargo do nosso apoiador.
+
+Para conferir os trabalhos da nossa artista **Rita Rocha** o insta é ***@ritarochailustra***
+
+Apoiador Master
+
+R$ 800,00
+Além de receber os 10 livros você pode estampar a logomarca de sua empresa na obra.
+
+Empresa que fortalece!
+
+R$ 1.500,00
+Que apoio enorme!!
+Com este valor sua empresa é mega parceira. 
+Você ganha 10 livros físicos, uma logomarca no livro e em todos os materiais de divulgação digitais. 
+O **livro digital ficará liberado para ações de marketing e relacionamento do cliente virando um produto para sua empresa explorar**. 
+Além disso, poderá colocar este apoio incrível que estão ofertando na plataforma da empresa **pelo compromisso e fortalecimento das artes e da cultura brasileira e responsabilidade social.**
 
 ## Header 2
 
