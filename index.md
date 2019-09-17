@@ -28,7 +28,8 @@ Juntos, criamos para o público as recompensas expostas abaixo com o mesmo carin
 
 No mais, desejo já agradecer todos aqueles que apoiam e apoiaram este trabalho seja no envio de boas energias e palavras afetuosas como colaborando materialmente para a materialização dessa obra.
 
-### Rodrigo Verly
+### Rodrigo Verly<p>
+autor dos escritos
 
 
 
@@ -70,7 +71,7 @@ Você apoia o projeto e recebe um livro físico + uma ecobag e uma camisa com a 
 
 Que tal um bolinho?
 
-R$ 130,00
+<p>R$ 130,00<p>
 Além de receber tanto o livro físico e o digital nos encontraremos para uma tarde com poesia. 
 Que tal um chá da tarde com poesia? 
 Um café e um bolinho? 
@@ -80,7 +81,7 @@ A ideia é permitir um encontro entre o autor e o apoiador, um bate papo com mui
 
 Apoiador da Cocriação
 
-R$ 170,00
+<p>R$ 170,00<p>
 Além do livro físico você ganha uma ilustração sob medida feita para você da artista **Rita Rocha**.
 Essa é das recompensas uma das mais legais. A artista e ilustradora Rita Rocha fará uma arte personalizada feita especialmente para nosso apoiador que será entregue já numa moldura. 
 Além do livro você levará uma obra de arte única e exclusiva.
@@ -95,7 +96,7 @@ Além de receber os 10 livros você pode estampar a logomarca de sua empresa na 
 
 Empresa que fortalece!
 
-R$ 1.500,00
+<p>R$ 1.500,00<p>
 Que apoio enorme!!
 Com este valor sua empresa é mega parceira. 
 Você ganha 10 livros físicos, uma logomarca no livro e em todos os materiais de divulgação digitais. 
