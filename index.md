@@ -25,6 +25,8 @@ No mais, desejo já agradecer todos aqueles que apoiam e apoiaram este trabalho 
 **Rodrigo Verly**
 autor dos escritos
 
+https://www.poliphonia.com/cursos/web-design-e-desenvolvimento-com-wordpress/benfeitoria-logo-2/
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
