@@ -42,14 +42,14 @@ autor dos escritos
 
 Incentivador
 
-R$ 10,00
-Você colabora com o projeto e recebe 
+<p>R$ 10,00<p>
+<p>Você colabora com o projeto e recebe 
 um livro digital com carta personalizada de agradecimento.
 
 Apoiador
 
 R$ 30,00
-Você apoia o projeto e recebe 
+<p>Você apoia o projeto e recebe 
 um livro físico com um afetuoso agradecimento pessoal escrito a mão. 
 
 Apoiadoraço
@@ -97,10 +97,10 @@ Além de receber os 10 livros você pode estampar a logomarca de sua empresa na 
 Empresa que fortalece!
 
 <p>R$ 1.500,00<p>
-Que apoio enorme!!
-Com este valor sua empresa é mega parceira. 
-Você ganha 10 livros físicos, uma logomarca no livro e em todos os materiais de divulgação digitais. 
-O **livro digital ficará liberado para ações de marketing e relacionamento do cliente virando um produto para sua empresa explorar**. 
+Que apoio enorme!!<p>
+<p>Com este valor sua empresa é mega parceira.<p> 
+<p>Você ganha 10 livros físicos, uma logomarca no livro e em todos os materiais de divulgação digitais.<p> 
+O **livro digital ficará liberado para ações de marketing e relacionamento do cliente virando um produto para sua empresa explorar**.<p> 
 Além disso, poderá colocar este apoio incrível que estão ofertando na plataforma da empresa **pelo compromisso e fortalecimento das artes e da cultura brasileira e responsabilidade social.**
 
 ## Header 2
