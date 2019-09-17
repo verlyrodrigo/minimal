@@ -2,10 +2,6 @@
 layout: default
 ---
 
-www.benfeitoria.com/vividoseinventados
-
-
-
 
 
 www.benfeitoria.com/vividoseinventados
