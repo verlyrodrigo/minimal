@@ -2,13 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+www.benfeitoria.com/vividoseinventados
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Pequenos Contos vividos e inventados** integra algumas ideias e propostas que tem me transversado nestes últimos tempos.
+
+Produzir um livro de maneira livre e autônoma, independente do mercado editorial, tendo como objetivo manter uma ferramenta de pesquisa em rede, a qual venho me debruçando incansavelmente, em parceria com artistas e diversos colaboradores. 
+
+E conseguinte, há uma vontade de levar ao público, no caso, os leitores, alguns escritos que trouxesse retorno, gerando valores, tanto monetários, como criptomonetários como afetuosos ao trabalho que venho há alguns anos dedicando-me de forma abnegada.
+
+Para isso pretendo reunir apoiadores tendo como meta a impressão de 150 livros diretamente de uma gráfica e fazer isso de maneira compartilhada consigo integrar ao projeto uma cultura colaborativa, que acredito como forma de viver.
+
+O projeto conta com a cocriação da artista e designer Samara Tanaka, pesquisadora do desenho e das formas, enriquecendo a obra com sua sensibilidade estética, modelando o livro, dando vida ao seu corpo físico.
+
+A ilustração é da artista e ilustradora Rita Rocha, uma parceria incrível na materialização do universo imaginário, oferecendo seu trabalho e sua arte às recompensas e cocriando este trabalho em seu caráter simbólico.
+
+Juntos, criamos para o público as recompensas expostas abaixo com o mesmo carinho que desenvolvemos este trabalho. 
+
+No mais, desejo já agradecer todos aqueles que apoiam e apoiaram este trabalho seja no envio de boas energias e palavras afetuosas como colaborando materialmente para a materialização dessa obra.
+
+**Rodrigo Verly**
+autor dos escritos
 
 # Header 1
 
