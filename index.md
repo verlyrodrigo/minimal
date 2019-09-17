@@ -96,11 +96,11 @@ Além de receber os 10 livros você pode estampar a logomarca de sua empresa na 
 
 Empresa que fortalece!
 
-<p>R$ 1.500,00<p>
-Que apoio enorme!!<p>
-<p>Com este valor sua empresa é mega parceira.<p> 
-<p>Você ganha 10 livros físicos, uma logomarca no livro e em todos os materiais de divulgação digitais.<p> 
-O **livro digital ficará liberado para ações de marketing e relacionamento do cliente virando um produto para sua empresa explorar**.<p> 
+R$ 1.500,00··
+Que apoio enorme!!··
+Com este valor sua empresa é mega parceira.··
+Você ganha 10 livros físicos, uma logomarca no livro e em todos os materiais de divulgação digitais.··
+O **livro digital ficará liberado para ações de marketing e relacionamento do cliente virando um produto para sua empresa explorar**.··
 Além disso, poderá colocar este apoio incrível que estão ofertando na plataforma da empresa **pelo compromisso e fortalecimento das artes e da cultura brasileira e responsabilidade social.**
 
 ## Header 2
